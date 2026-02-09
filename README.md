@@ -53,18 +53,9 @@ API robusta focada em boas práticas de Engenharia de Software.
 
 ---
 
-### 📊 GitHub Analytics
+### 📫 Contato
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nayaracardosodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaracardosodev&layout=compact&theme=dracula"/>
-</div>
-
----
-
-### 📫 Vamos construir algo incrível?
-
-<a href="linkedin.com/in/nayaracardosodev" target="_blank">
+<a href="https://www.linkedin.com/in/nayaracardosodev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a> 
 <a href="mailto:nayara.cardoso_0206@icloud.com">
